@@ -8,11 +8,11 @@ nav_order: 1
 ## POSITIONS
 
 *  2024/11/01 to present <br />
-  **Assistant Professor** in the group of research and teaching staff <br />
+**Assistant Professor** in the group of research and teaching staff <br />
 Institute of Structural Analysis, Faculty of Civil Engineering and Transport, Poznan University of Technology, Poland 
 
 *  2021/11/01 to 2024/10/31 <br />
-  **Research Assistant** in the group of research and teaching staff <br />
+**Research Assistant** in the group of research and teaching staff <br />
 Institute of Structural Analysis, Faculty of Civil Engineering and Transport, Poznan University of Technology, Poland
 
 ## EDUCATION
