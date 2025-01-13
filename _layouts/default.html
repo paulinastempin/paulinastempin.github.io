@@ -15,11 +15,11 @@
               <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
     
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
+            <!--<p>{{ site.description | default: site.github.project_tagline }}</p>
     
             {% if site.github.is_project_page %}
             <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-            {% endif %}
+            {% endif %}-->
     
             {% if site.github.is_user_page %}
             <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -33,20 +33,20 @@
             </ul>
             {% endif %}
            
-                <ul class="navbar-nav mr-auto">
-                    {% assign nav_pages = site.html_pages | where_exp: 'p','p.nav' | sort: 'nav_order' %}
-                    {% for p in nav_pages %}
-                    <li class="nav-item{% if page.url == p.url %} active{% endif %}">
-                    <a class="nav-link" href="{{ p.url | relative_url }}">{% if p.nav == true %}{{ p.title }}{% else %}{{ p.nav }}{% endif %}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-          </header>
-          <section>
+            <ul class="navbar-nav mr-auto">
+                {% assign nav_pages = site.html_pages | where_exp: 'p','p.nav' | sort: 'nav_order' %}
+                {% for p in nav_pages %}
+                <li class="nav-item{% if page.url == p.url %} active{% endif %}">
+                <a class="nav-link" href="{{ p.url | relative_url }}">{% if p.nav == true %}{{ p.title }}{% else %}{{ p.nav }}{% endif %}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </header>
+        <section>
 
             {{ content }}
       
-            </section>
+        </section>
         {% include template/footer.html %}
         
     </body>
