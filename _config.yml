@@ -11,11 +11,11 @@
 #
 title: Paulina Stempin
 logo: /assets/img/logo.png
-description: "strona w budowie"
+description: "Assistant Professor at Poznan University of Technology"
 year: 2025
-author: Paulina Stempin
+author: Dr. Eng. Paulina Stempin
 # add search box to navbar, true/false
-search: true
+search: false
 
 ##########
 # URL VARIABLES [optional!]
