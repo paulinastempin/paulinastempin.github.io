@@ -3,7 +3,8 @@ title: CV
 nav: CV
 nav_order: 1
 ---
-
+# Dr. Eng. Paulina Stempin
+## Assistant Professor at Poznan University of Technology
 
 ## POSITIONS
 
@@ -105,7 +106,7 @@ Participation in the period: 01/12/2019 to 24/11/2021
 3. Distinction for the preparation and presentation of a scientific paper by young scientists (pre-doctoral) at the conference: XIII Seminarium Naukowego <br />
 ZINTEGROWANE STUDIA PODSTAW DEFORMACJI PLASTYCZNEJ METALI, 7th-10th, 2023, Łańcut, Poland
 
-2. Jan Szmelter Award (third place) in the young researchers’ competition for the best paper presented at the 25th International Conference on Computer Methods in Mechanics & 5th Polish Congress of Mechanics, September 4th-7th, 2023, Gliwice, Poland
+2. [Jan Szmelter Award (third place) in the young researchers’ competition](https://ptmkm.pl/?p=329) for the best paper presented at the 25th International Conference on Computer Methods in Mechanics & 5th Polish Congress of Mechanics, September 4th-7th, 2023, Gliwice, Poland
 
 1. Scholarship of the Rector of Poznań University of Technology for outstanding study results (for the top 10% of students in the academic year):
  - in semesters III, IV, V, VI, VII at the first-cycle studies,
@@ -121,40 +122,42 @@ ZINTEGROWANE STUDIA PODSTAW DEFORMACJI PLASTYCZNEJ METALI, 7th-10th, 2023, Łań
 
 
 ## TEACHING EXPERIENCE
-Courses: Computational Mechanics, Computer aided design, Numerical methods, Theory of construction, Engineering graphics and CAD, Technical drawing 
+Courses: Computational Mechanics, Computer aided design, Numerical methods, Theory of structures, Engineering graphics and CAD, Technical drawing 
 
 #### AY 2024/2025
-* **[_Theory of construction_](), Project**
+* **[_Theory of structures_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=S1Bud1%3ETK&lang=en), Project** – 30-hour course in Polish, 3 groups for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Numerical methods_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=S1Bud1%3EMO&callback=g_faa662d9), Laboratory** – 30-hour course in Polish, 3 groups for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Numerical methods_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S1Bud1%3EMO&callback=g_faa662d9&lang=en), Laboratory** – 30-hour course in Polish, 3 groups for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Engineering graphics and CAD_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=N1Bud1%3EGICAD2&callback=g_e187be04), Laboratory** – 20-hour course in Polish, 1 group for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Engineering graphics and CAD_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=S1Bud1%3EGICAD1&lang=en), Project** – 10-hour course in Polish, 6 group for first-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Technical drawing_](), Project**
+* **[_Engineering graphics and CAD_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=N1Bud1%3EGICAD1&lang=en), Project** – 20-hour course in Polish, 2 group for first-cycle (part-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+
+* **[_Engineering graphics and CAD_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=N1Bud1%3EGICAD1&lang=en), Classes** – 10-hour course in Polish, 1 group for first-cycle (part-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
 #### AY 2023/2024
-* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 30-hour course in Polish, 1 group for second-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 30-hour course in Polish, 1 group for second-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=N2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 18-hour course in Polish, 1 group for second-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=N2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 18-hour course in Polish, 1 group for second-cycle (part-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Numerical methods_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=S1Bud1%3EMO&callback=g_faa662d9), Laboratory** – 30-hour course in Polish, 2 groups for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Numerical methods_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S1Bud1%3EMO&callback=g_faa662d9&lang=en), Laboratory** – 30-hour course in Polish, 2 groups for first-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Engineering graphics and CAD_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=N1Bud1%3EGICAD2&callback=g_e187be04), Laboratory** – 20-hour course in Polish, 1 group for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Engineering graphics and CAD_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=N1Bud1%3EGICAD2&callback=g_e187be04&lang=en), Laboratory** – 20-hour course in Polish, 1 group for first-cycle (part-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
 #### AY 2022/2023
-* **[_Computer aided design_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=S1Bud1%3EKWP&callback=g_e187be04), Laboratory** – 30-hour course in Polish, 2 groups for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Computer aided design_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S1Bud1%3EKWP&callback=g_e187be04&lang=en), Laboratory** – 30-hour course in Polish, 2 groups for first-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 30-hour course in Polish, 1 group for second-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
-* **[_Numerical methods_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=S1Bud1%3EMO&callback=g_faa662d9), Laboratory** – 30-hour course in Polish, 2 groups for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 30-hour course in Polish, 1 group for second-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Numerical methods_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S1Bud1%3EMO&callback=g_faa662d9&lang=en), Laboratory** – 30-hour course in Polish, 2 groups for first-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
 #### AY 2021/2022
-* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=S2Bud1E-IPB%3EMO&callback=g_934db5e0), Laboratory** – 30-hour course in English, 1 group for second-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1E-IPB%3EMO&callback=g_934db5e0&lang=en), Laboratory** – 30-hour course **in English**, 1 group for second-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 30-hour course in Polish, 1 group for second-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 30-hour course in Polish, 1 group for second-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Numerical methods_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=S1Bud1%3EMO&callback=g_faa662d9), Laboratory** – 30-hour course in Polish, 3 groups for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Numerical methods_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S1Bud1%3EMO&callback=g_faa662d9&lang=en), Laboratory** – 30-hour course in Polish, 3 groups for first-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
-* **[_Computer aided design_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=N1Bud1%3EKWP&callback=g_e187be04), Laboratory** – 18-hour course in Polish, 1 group for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Computer aided design_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=N1Bud1%3EKWP&callback=g_e187be04&lang=en), Laboratory** – 18-hour course in Polish, 1 group for first-cycle (part-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
 
 #### AY 2020/2021
-* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 30-hour course in Polish, 2 groups for second-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
+* **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 30-hour course in Polish, 2 groups for second-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznań University of Technology, Poland
