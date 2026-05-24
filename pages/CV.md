@@ -60,7 +60,7 @@ Participation in the period: 01/12/2019 to 24/11/2021
 
 | Publication | Polish Ministry points | IF |
 | --- | --- | --- |
-| 11. Kevin Moj, Grzegorz Robak, Joanna Malecka, Jolanta Królczyk, Marcin Nowak, **Paulina Stempin**, Kamil Cybul, Michał Wieczorowski, Wojciech Sumelka, Tomasz Jankowiak. (2026). [_Statistical representativeness of the microstructure and surface topography in steel reference samples in a dynamic compression test_](https://doi.org/10.1016/j.jmrt.2026.05.141). Journal of Materials Research and Technology | 100 |	6.600 |
+| 11. Kevin Moj, Grzegorz Robak, Joanna Malecka, Jolanta Królczyk, Marcin Nowak, **Paulina Stempin**, Kamil Cybul, Michał Wieczorowski, Wojciech Sumelka, Tomasz Jankowiak. (2026). [_Statistical representativeness of the microstructure and surface topography in steel reference samples in a dynamic compression test_](https://doi.org/10.1016/j.jmrt.2026.05.141). Journal of Materials Research and Technology, vol. 42, p. 9270-9286 | 100 |	6.600 |
 | 10. Krzysztof Szajek, **Paulina Stempin**, Wojciech Sumelka. (2025). [_Comprehensive analysis of complexity of damage identification in micro-beam like structures based on silver nanowires experimental data_](https://doi.org/10.1007/s00366-025-02186-0). Engineering with Computers, vol. 41, p. 3719–3736 | 70 |	4.900 |
 | 9. **Paulina Stempin**, Wojciech Sumelka. (2025). [_Space-Fractional Finite Element Method for Scale Sensitive Truss Structures - Theory and Implementation_](https://doi.org/10.1007/s00466-025-02632-2). Computational Mechanics, vol. 76, p. 905–922 | 140 |	3.800 |
 | 8. **Paulina Stempin**, Wojciech Sumelka. (2025). [_Approximation of Fractional Caputo Derivative of Variable Order and Variable Terminals with Application to Initial/Boundary Value Problems_](https://doi.org/10.3390/fractalfract9050269). Fractal and Fractional, vol. 9, iss. 5, p. 269-1-269-17 | 20 |	3.300 |
@@ -165,7 +165,7 @@ Courses: Computational Mechanics, Computer aided design, Numerical methods, Theo
 
 * **[_Computer aided design_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S1Bud1%3EKWP&callback=g_e187be04&lang=en), Laboratory** – 30-hour laboratory component of a 4-ECTS course (lecture + laboratory) in Polish, 1 groups for first-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznan University of Technology, Poland
 
-* _Supervision_ of 3 engineering diploma theses in Civil Engineering, specialization in Structural Engineering
+* _Supervision_ of 3 bachelor’s theses and 1 master’s thesis in Civil Engineering, specialization in Structural Engineering
 
 * **[_Theory of structures_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=S1Bud1%3ETK&lang=en), Project** – 30-hour project component of a 3-ECTS course (lectury + project) in Polish, 1 group for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznan University of Technology, Poland
 
