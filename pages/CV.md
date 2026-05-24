@@ -71,7 +71,7 @@ Participation in the period: 01/12/2019 to 24/11/2021
 | 3. **Paulina Stempin**, Wojciech Sumelka. (2021). [_Formulation and experimental validation of space-fractional Timoshenko beam model with functionally graded materials effects_](http://dx.doi.org/10.1007/s00466-021-01987-6). Computational Mechanics, vol. 68, iss. 3, p. 697-708 | 140 |	4.391 |
 | 2. **Paulina Stempin**, Wojciech Sumelka. (2020). [_Space-fractional Euler-Bernoulli beam model – Theory and identification for silver nanobeam bending_](http://dx.doi.org/10.1016/j.ijmecsci.2020.105902). International Journal of Mechanical Sciences, vol. 186, p. 105902-1-105902-7 | 140	| 5.329 |
 | 1. **Paulina Stempin**, Wojciech Sumelka. (2020). [_Numerical Analysis of Road Acoustic Screen_](http://dx.doi.org/10.24425/ace.2020.131805). Archives of Civil Engineering, vol. 66, no. 2, p. 191-210 | 100	| – |
-|The summed indicators are: IF = 50.068; Polish Ministry points = 1350; H-index = 5; citations = 141 (116 without self-citations) according to Scopus database as of May 17, 2026.|
+|The summed indicators are: IF = 50.068; Polish Ministry points = 1350; H-index = 5; citations = 141 (116 without self-citations) according to Scopus database as of May 24, 2026.|
 {:.table .table-striped}
 
 ### CONFERENCES AND SEMINARS
