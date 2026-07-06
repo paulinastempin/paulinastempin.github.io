@@ -80,7 +80,7 @@ Of the 21 conference presentations listed below, 13 were delivered by me; the pr
 
 21. **(Keynote lecture)**: **Paulina Stempin***, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
 
-20. Wojciech Sumelka***, **Paulina Stempin*****, Krzysztof Szajek*** . _Modelling, identification and optimisation of structures exhibiting strong scale effect_. Seminar of the Institute of Fundamental Technological Research, Polish Academy of Sciences (IFTR PAS Seminar: W. Olszak and A. Sawczuk Seminar on Mechanics), June 08, 2026, Warsaw, Poland
+20. Wojciech Sumelka\*, **Paulina Stempin**\*, Krzysztof Szajek\* . _Modelling, identification and optimisation of structures exhibiting strong scale effect_. Seminar of the Institute of Fundamental Technological Research, Polish Academy of Sciences (IFTR PAS Seminar: W. Olszak and A. Sawczuk Seminar on Mechanics), June 08, 2026, Warsaw, Poland
 
 19. Faiza Zahid*, **Paulina Stempin**, Wojciech Sumelka _Fractional Calculus for Space-Fractional Thermoelasticity_. The 1st International Online Conference on Fractal and Fractional, Part of the International Online Conference on Fractal and Fractional series, April 13–15, 2026, online conference
 
