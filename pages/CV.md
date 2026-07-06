@@ -60,6 +60,7 @@ Participation in the period: 01/12/2019 to 24/11/2021
 
 | Publication | Polish Ministry points | IF |
 | --- | --- | --- |
+| 12. **Paulina Stempin**, Wojciech Sumelka. (2026). [_B-spline-based space-fractional finite element formulation for planar scale-sensitive Timoshenko frames_](https://doi.org/10.1016/j.compstruc.2026.108342). Computers & Structures, vol. 330, p. 108342-1-108342-16 | 140 |	5.600 |
 | 11. Kevin Moj, Grzegorz Robak, Joanna Malecka, Jolanta Królczyk, Marcin Nowak, **Paulina Stempin**, Kamil Cybul, Michał Wieczorowski, Wojciech Sumelka, Tomasz Jankowiak. (2026). [_Statistical representativeness of the microstructure and surface topography in steel reference samples in a dynamic compression test_](https://doi.org/10.1016/j.jmrt.2026.05.141). Journal of Materials Research and Technology, vol. 42, p. 9270-9286 | 100 |	6.600 |
 | 10. Krzysztof Szajek, **Paulina Stempin**, Wojciech Sumelka. (2025). [_Comprehensive analysis of complexity of damage identification in micro-beam like structures based on silver nanowires experimental data_](https://doi.org/10.1007/s00366-025-02186-0). Engineering with Computers, vol. 41, p. 3719–3736 | 70 |	4.900 |
 | 9. **Paulina Stempin**, Wojciech Sumelka. (2025). [_Space-Fractional Finite Element Method for Scale Sensitive Truss Structures - Theory and Implementation_](https://doi.org/10.1007/s00466-025-02632-2). Computational Mechanics, vol. 76, p. 905–922 | 140 |	3.800 |
@@ -71,13 +72,15 @@ Participation in the period: 01/12/2019 to 24/11/2021
 | 3. **Paulina Stempin**, Wojciech Sumelka. (2021). [_Formulation and experimental validation of space-fractional Timoshenko beam model with functionally graded materials effects_](http://dx.doi.org/10.1007/s00466-021-01987-6). Computational Mechanics, vol. 68, iss. 3, p. 697-708 | 140 |	4.391 |
 | 2. **Paulina Stempin**, Wojciech Sumelka. (2020). [_Space-fractional Euler-Bernoulli beam model – Theory and identification for silver nanobeam bending_](http://dx.doi.org/10.1016/j.ijmecsci.2020.105902). International Journal of Mechanical Sciences, vol. 186, p. 105902-1-105902-7 | 140	| 5.329 |
 | 1. **Paulina Stempin**, Wojciech Sumelka. (2020). [_Numerical Analysis of Road Acoustic Screen_](http://dx.doi.org/10.24425/ace.2020.131805). Archives of Civil Engineering, vol. 66, no. 2, p. 191-210 | 100	| – |
-|The summed indicators are: IF = 50.068; Polish Ministry points = 1350; H-index = 5; citations = 141 (116 without self-citations) according to Scopus database as of May 24, 2026.|
+|The summed indicators are: IF = 55.668; Polish Ministry points = 1490; H-index = 6; citations = 149 (117 without self-citations) according to Scopus database as of July 06, 2026.|
 {:.table .table-striped}
 
 ### CONFERENCES AND SEMINARS
 Of the 20 conference presentations listed below, 12 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
 
-20. **Paulina Stempin***, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
+21. **Paulina Stempin***, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
+
+20. Wojciech Sumelka*, **Paulina Stempin***, Krzysztof Szajek* . _Modelling, identification and optimisation of structures exhibiting strong scale effect_. Seminar of the Institute of Fundamental Technological Research, Polish Academy of Sciences (IFTR PAS Seminar: W. Olszak and A. Sawczuk Seminar on Mechanics), June 08, 2026, Warsaw, Poland
 
 19. Faiza Zahid*, **Paulina Stempin**, Wojciech Sumelka _Fractional Calculus for Space-Fractional Thermoelasticity_. The 1st International Online Conference on Fractal and Fractional, Part of the International Online Conference on Fractal and Fractional series, April 13–15, 2026, online conference
 
