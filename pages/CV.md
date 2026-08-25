@@ -181,6 +181,7 @@ Presented paper: _Modelling of nonlocal thick plates in the framework of space-f
 ### MEMBERSHIP
 *  2023/10 to present <br />
 [ECCOMAS Young Investigators Committee (EYIC)](https://eccomas.org/comittees/eyic/) <br />
+    - Organizer of the PhD Olympiad event held during the WCCM-ECCOMAS 2026 (17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering). July 19-24, 2026, Munich, Germany.
     - Organizer of the PhD Olympiad event held during the YIC 2025 (8th edition of the ECCOMAS Young Investigators Conference). September 17-19, 2025, Pescara, Italy.
     - Co-organizer of the PhD Olympiad event held during the ECCOMAS CONGRESS 2024 (9th European Congress on Computational Methods in Applied Sciences and Engineering). June 02-08, 2024, Lisbon, Portugal.
 
