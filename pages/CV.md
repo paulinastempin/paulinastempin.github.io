@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
 ### CONFERENCES AND SEMINARS
 Of the 21 conference presentations listed below, 13 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
 
-21. [**(Keynote lecture)**](https://paulinastempin.github.io/assets/img/2026/WCCM-ECCOMAS-2026_keynote_lecture.png): **Paulina Stempin***, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
+21. [**(Keynote lecture)**](https://paulinastempin.github.io/assets/conf/2026/WCCM-ECCOMAS-2026_keynote_lecture.png): **Paulina Stempin***, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
 
 20. Wojciech Sumelka\*, **Paulina Stempin**\*, Krzysztof Szajek\*. _Modelling, identification and optimisation of structures exhibiting strong scale effect_. Seminar of the Institute of Fundamental Technological Research, Polish Academy of Sciences (IFTR PAS Seminar: W. Olszak and A. Sawczuk Seminar on Mechanics), June 08, 2026, Warsaw, Poland
 
@@ -191,7 +191,7 @@ Presented paper: _Modelling of nonlocal thick plates in the framework of space-f
 *   01/10/2020 - 30/09/2022 <br /> Member of Doctoral Students Council of the Poznan University of Technology 
 
 ### COMMITMENTS
- 4. [Member of Next Generation Committee](./assets/img/2026/WCCM-ECCOMAS-NGC.png) - [WCCM-ECCOMAS 2026](https://wccm-eccomas2026.org/organization#com_next_advisory) (17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering), July 19-24, 2026, Munich, Germany
+ 4. [Member of Next Generation Committee](./assets/conf/2026/WCCM-ECCOMAS-NGC.png) - [WCCM-ECCOMAS 2026](https://wccm-eccomas2026.org/organization#com_next_advisory) (17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering), July 19-24, 2026, Munich, Germany
  4. Member of the Scientific Committee - YIC2025 (8th edition of the ECCOMAS Young Investigators Conference), September 17-19, 2025, Pescara, Italy
  3. [Member of Organizing Committee - GAMM2025](https://jahrestagung.gamm.org/annual-meeting-2025/contact/) (95th Annual Meeting of the International Association of Applied Mathematics and Mechanics), April 07-11, 2025, Poznań, Poland
  2. Representative of doctoral students (without the voting right) in the Evaluation Committee of the Doctoral School for the mid-term evaluation of doctoral students in the academic year 2022/2023 (September 2023)
