@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
 ### CONFERENCES AND SEMINARS
 Of the 21 conference presentations listed below, 13 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
 
-21. [**(Keynote lecture)**](./assets/img/2026/WCCM-ECCOMAS-2026_keynote_lecture.png): **Paulina Stempin***, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
+21. [**(Keynote lecture)**](https://paulinastempin.github.io/assets/img/2026/WCCM-ECCOMAS-2026_keynote_lecture.png): **Paulina Stempin***, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
 
 20. Wojciech Sumelka\*, **Paulina Stempin**\*, Krzysztof Szajek\*. _Modelling, identification and optimisation of structures exhibiting strong scale effect_. Seminar of the Institute of Fundamental Technological Research, Polish Academy of Sciences (IFTR PAS Seminar: W. Olszak and A. Sawczuk Seminar on Mechanics), June 08, 2026, Warsaw, Poland
 
