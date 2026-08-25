@@ -77,6 +77,48 @@ Participation in the period: 01/12/2019 to 24/11/2021
 | 1. **Paulina Stempin**, Wojciech Sumelka. (2020). [_Numerical Analysis of Road Acoustic Screen_](http://dx.doi.org/10.24425/ace.2020.131805). Archives of Civil Engineering, vol. 66, no. 2, p. 191-210 | 100	| – |
 |The summed indicators are: IF = 60.168; Polish Ministry points = 1630; H-index = 6; citations = 150 (118 without self-citations) according to Scopus database as of August 19, 2026.|
 {:.table .table-striped}
+<p id="publication-indicators">
+The summed indicators are: H-index = 6; citations = 150 (118 without self-citations) according to Scopus database as of August 19, 2026.
+</p>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const tables = document.querySelectorAll("table");
+
+  tables.forEach(function (table) {
+    const headers = Array.from(table.querySelectorAll("thead th"))
+      .map(th => th.textContent.trim());
+
+    const pointsIndex = headers.indexOf("Polish Ministry points");
+    const ifIndex = headers.indexOf("IF");
+
+    if (pointsIndex === -1 || ifIndex === -1) return;
+
+    let totalPoints = 0;
+    let totalIF = 0;
+
+    table.querySelectorAll("tbody tr").forEach(function (row) {
+      const cells = row.querySelectorAll("td");
+
+      const points = parseFloat(cells[pointsIndex]?.textContent.trim());
+      const impactFactor = parseFloat(cells[ifIndex]?.textContent.trim());
+
+      if (!isNaN(points)) totalPoints += points;
+      if (!isNaN(impactFactor)) totalIF += impactFactor;
+    });
+
+    const summary = document.getElementById("publication-indicators");
+
+    if (summary) {
+      summary.innerHTML =
+        "The summed indicators are: IF = " +
+        totalIF.toFixed(3) +
+        "; Polish Ministry points = " +
+        totalPoints +
+        "; H-index = 6; citations = 150 (118 without self-citations) according to Scopus database as of August 19, 2026.";
+    }
+  });
+});
+</script>
 
 ### CONFERENCES AND SEMINARS
 Of the 21 conference presentations listed below, 13 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
