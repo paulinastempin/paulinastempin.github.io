@@ -191,7 +191,7 @@ Presented paper: _Modelling of nonlocal thick plates in the framework of space-f
 *   01/10/2020 - 30/09/2022 <br /> Member of Doctoral Students Council of the Poznan University of Technology 
 
 ### COMMITMENTS
- 4. [Member of Next Generation Committee - WCCM-ECCOMAS 2026](https://wccm-eccomas2026.org/organization#com_next_advisory) (17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering), July 19-24, 2026, Munich, Germany
+ 4. [Member of Next Generation Committee](./assets/img/2026/WCCM-ECCOMAS-NGC.png) - [WCCM-ECCOMAS 2026](https://wccm-eccomas2026.org/organization#com_next_advisory) (17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering), July 19-24, 2026, Munich, Germany
  4. Member of the Scientific Committee - YIC2025 (8th edition of the ECCOMAS Young Investigators Conference), September 17-19, 2025, Pescara, Italy
  3. [Member of Organizing Committee - GAMM2025](https://jahrestagung.gamm.org/annual-meeting-2025/contact/) (95th Annual Meeting of the International Association of Applied Mathematics and Mechanics), April 07-11, 2025, Poznań, Poland
  2. Representative of doctoral students (without the voting right) in the Evaluation Committee of the Doctoral School for the mid-term evaluation of doctoral students in the academic year 2022/2023 (September 2023)
