@@ -6,7 +6,9 @@ nav_order: 1
 # Dr. Eng. Paulina Stempin
 ## Assistant Professor at Poznan University of Technology
 
-[Download CV (eng) PDF](https://paulinastempin.github.io/assets/pdf/PS_CV_eng.pdf)
+[Download CV (english) PDF](https://paulinastempin.github.io/assets/pdf/PS_CV_eng.pdf)
+
+[Download CV (polski) PDF](https://paulinastempin.github.io/assets/pdf/PS_CV_pl.pdf)
 
 ## POSITIONS
 
