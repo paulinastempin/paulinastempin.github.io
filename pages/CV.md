@@ -198,6 +198,7 @@ Presented paper: _Modelling of nonlocal thick plates in the framework of space-f
  1. Representative of doctoral students (without the voting right) in the Recruitment Committee of the Doctoral School for the academic year 2021/2022 (August 2021) 
 
 ### COURSE COMPLETION
+ - _Flipped blended learning w szkolnictwie wyższym_, training by Poznan University of Technology as part of the PUT4TEACHING project, July 01, 2026, Poznan, Poland
  - _Training in operating the Inspect Micro L100 machine with LabMaster software_, training by [ITA](https://www.ita-polska.com.pl/), October 16, 2025, Poznan, Poland
  - _11th CISM–AIMETA Advanced Course on "Machine Learning for Solid Mechanics"_, course by CISM (International Centre for Mechanical Sciences), September 29 - October 03, 2025, Udine, Italy (Online Participation)
  - _Realizacja i rozliczanie projektu finansowego za środków Narodowego Centrum Nauki (Implementation and accounting the project funded by the National Science Center, Poland)_, course by Centrum Analizy Wartości, March 20-21, 2025, Warsaw, Poland
