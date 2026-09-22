@@ -198,6 +198,7 @@ Presented paper: _Modelling of nonlocal thick plates in the framework of space-f
  1. Representative of doctoral students (without the voting right) in the Recruitment Committee of the Doctoral School for the academic year 2021/2022 (August 2021) 
 
 ### COURSE COMPLETION
+ - _Grywalizacja w dydaktyce akademickiej_, training by Poznan University of Technology as part of the PUT4TEACHING project, September 22, 2026, Poznan, Poland
  - _Zaawansowane prezentacje multimedialne_, training by Poznan University of Technology as part of the PUT4TEACHING project, September 18, 2026, Poznan, Poland
  - _Zielona transformacja w dydaktyce akademickiej_, training by Poznan University of Technology as part of the PUT4TEACHING project, September 16, 2026, Poznan, Poland
  - _Flipped blended learning w szkolnictwie wyższym_, training by Poznan University of Technology as part of the PUT4TEACHING project, July 01, 2026, Poznan, Poland
