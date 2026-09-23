@@ -120,7 +120,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 ### CONFERENCES AND SEMINARS
-Of the 21 conference presentations listed below, 13 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
+Of the 22 conference presentations listed below, 13 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
+
+22. Faiza Zahid*, **Paulina Stempin**, Wojciech Sumelka. _Study of the temperature effect in fractional thermoelasticity at micro- nano scale_. 44th Solid Mechanics Conference (SolMech 2026), September 07-10, 2026, Krakow, Poland
 
 21. [**(Keynote lecture)**](https://paulinastempin.github.io/assets/conf/2026/WCCM-ECCOMAS-2026_keynote_lecture.png): **Paulina Stempin***, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
 
