@@ -122,51 +122,51 @@ document.addEventListener("DOMContentLoaded", function () {
 ### CONFERENCES AND SEMINARS
 Of the 23 conference presentations listed below, 13 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
 
-23. Invited lecture: Wojciech Sumelka*, <span class="pink-text">Paulina Stempin</span>, Krzysztof Szajek, _Current Achievements of Fractional Mechanics_. 9 th German-Polish Conference on Optimization Methods and Applications (GPCOP 2026), Bialystok University of Technology, Faculty of Computer Science, September 19–25, 2026, Bialystok, Poland
+23. Invited lecture: Wojciech Sumelka*, **Paulina Stempin**, Krzysztof Szajek, _Current Achievements of Fractional Mechanics_. 9 th German-Polish Conference on Optimization Methods and Applications (GPCOP 2026), Bialystok University of Technology, Faculty of Computer Science, September 19–25, 2026, Bialystok, Poland
 
 22. Faiza Zahid*, **Paulina Stempin**, Wojciech Sumelka. _Study of the temperature effect in fractional thermoelasticity at micro- nano scale_. 44th Solid Mechanics Conference (SolMech 2026), September 07-10, 2026, Krakow, Poland
 
-21. [**(Keynote lecture)**](https://paulinastempin.github.io/assets/conf/2026/WCCM-ECCOMAS-2026_keynote_lecture.png): **Paulina Stempin***, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
+21. [**(Keynote lecture)**](https://paulinastempin.github.io/assets/conf/2026/WCCM-ECCOMAS-2026_keynote_lecture.png): <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Space-Fractional Finite Element Formulation for 3D Nonlocal Frames_. 17th World Congress on Computational Mechanics & 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026), July 19-24, 2026, Munich, Germany
 
-20. Wojciech Sumelka\*, **Paulina Stempin**\*, Krzysztof Szajek\*. _Modelling, identification and optimisation of structures exhibiting strong scale effect_. Seminar of the Institute of Fundamental Technological Research, Polish Academy of Sciences (IFTR PAS Seminar: W. Olszak and A. Sawczuk Seminar on Mechanics), June 08, 2026, Warsaw, Poland
+20. Wojciech Sumelka\*, <span class="pink-text">Paulina Stempin</span>\*, Krzysztof Szajek\*. _Modelling, identification and optimisation of structures exhibiting strong scale effect_. Seminar of the Institute of Fundamental Technological Research, Polish Academy of Sciences (IFTR PAS Seminar: W. Olszak and A. Sawczuk Seminar on Mechanics), June 08, 2026, Warsaw, Poland
 
 19. Faiza Zahid*, **Paulina Stempin**, Wojciech Sumelka. _Fractional Calculus for Space-Fractional Thermoelasticity_. The 1st International Online Conference on Fractal and Fractional, Part of the International Online Conference on Fractal and Fractional series, April 13–15, 2026, online conference
 
-18. **Paulina Stempin***, Wojciech Sumelka. _Finite Element Method for Space-Fractional Truss and Frame_. 8th edition of the ECCOMAS Young Investigators Conference (YIC2025), September 17-19, 2025, Pescara, Italy
+18. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Finite Element Method for Space-Fractional Truss and Frame_. 8th edition of the ECCOMAS Young Investigators Conference (YIC2025), September 17-19, 2025, Pescara, Italy
 
-17. **Paulina Stempin***, Wojciech Sumelka. _Space-fractional finite element approach for size-dependent frame structures_. 26th International Conference on Computer Methods in Mechanics (CMM2025), July 8-11, 2025, Łódź, Poland
+17. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Space-fractional finite element approach for size-dependent frame structures_. 26th International Conference on Computer Methods in Mechanics (CMM2025), July 8-11, 2025, Łódź, Poland
 
-16. **Paulina Stempin***, Wojciech Sumelka. _Development of space-fractional finite element for scale-sensitive truss structures_. 95th Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM2025), April 7-11, 2025, Poznań, Poland
+16. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Development of space-fractional finite element for scale-sensitive truss structures_. 95th Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM2025), April 7-11, 2025, Poznań, Poland
 
 15. Tomasz Jankowiak*, Marcin Nowak, Wojciech Sumelka, **Paulina Stempin**, Michał Wieczorowski, Joanna Małecka,  Grzegorz Robak, Jolanta Królczyk, Kamil Cybul. _Challenges in fast dynamic laboratory testing_. International Conference „New Trends in Metrology” 2024, September 16-18, 2024, Kielce, Poland
 
 14. M. Nowak*, W. Sumelka, **P. Stempin**, T. Jankowiak, M. Wieczorowski, J. Małecka, G. Robak, J. Królczyk, K. Cybul. _Numerical analysis and experimental validation of split Hopkinson pressure bar setups: Proposal for a standard experimental design_. XVII Konferencja Naukowo-Technicznej TECHNIKI KOMPUTEROWE W INŻYNIERII TKI’2024, October 15-18, 2024, Stare Sady, Poland
 
-13. **Paulina Stempin***, Wojciech Sumelka. _Modelling of Nonlocal Truss Structures in the Framework of Space-Fractional Continuum Mechanics_. ECCOMAS CONGRESS 2024 (9th European Congress on Computational Methods in Applied Sciences and Engineering), June 2-8, 2024, Lisbon, Portugal
+13. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Modelling of Nonlocal Truss Structures in the Framework of Space-Fractional Continuum Mechanics_. ECCOMAS CONGRESS 2024 (9th European Congress on Computational Methods in Applied Sciences and Engineering), June 2-8, 2024, Lisbon, Portugal
 
-12. **Paulina Stempin***, Krzysztof Szajek, Wojciech Sumelka. _Space-fractional continuum mechanics as a method of capturing the scale effect_. 19th European Mechanics of Materials Conferences (EMMC), May 29-31, 2024, Madrid, Spain
+12. <span class="pink-text">Paulina Stempin</span>*, Krzysztof Szajek, Wojciech Sumelka. _Space-fractional continuum mechanics as a method of capturing the scale effect_. 19th European Mechanics of Materials Conferences (EMMC), May 29-31, 2024, Madrid, Spain
 
-11. **Paulina Stempin***, Wojciech Sumelka. _Modelowanie belek i płyt zależnych od mikrostruktury w oparciu o mechanikę ośrodków ciągłych niecałkowitego rzędu_. XIII Konferencja Naukowa PLASTMET 2023, November 7-10, 2023, Łańcut, Poland
+11. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Modelowanie belek i płyt zależnych od mikrostruktury w oparciu o mechanikę ośrodków ciągłych niecałkowitego rzędu_. XIII Konferencja Naukowa PLASTMET 2023, November 7-10, 2023, Łańcut, Poland
 
-10. **Paulina Stempin***, Wojciech Sumelka. _Modelling of nonlocal thick plates in the framework of space-fractional continuum mechanics_. PCM-CMM 2023 (5th Polish Congress of Mechanics & 25th International Conference on Computer Methods in Mechanics), September 4-7, 2023, Gliwice, Poland
+10. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Modelling of nonlocal thick plates in the framework of space-fractional continuum mechanics_. PCM-CMM 2023 (5th Polish Congress of Mechanics & 25th International Conference on Computer Methods in Mechanics), September 4-7, 2023, Gliwice, Poland
 
 9. Krzysztof Szajek*, **Paulina Stempin**, Wojciech Sumelka. _Towards optimal space-fractional Euler-Bernoulli beam design_. CMM-SolMech 2022 (24th International Conference on Computer Methods in Mechanics & 42nd Solid Mechanics Conference), September 5-8, 2022, Świnoujście, Poland
 
 8. **Paulina Stempin**, Wojciech Sumelka*. _Space-Fractional Kirchhoff-Love plate theory for bending analysis with scale effect_. CMM-SolMech 2022 (24th International Conference on Computer Methods in Mechanics & 42nd Solid Mechanics Conference), September 5-8, 2022, Świnoujście, Poland
 
-7. **Paulina Stempin***, Wojciech Sumelka. _Plastic Hinge Formation in the Framework of the Space-Fractional Beam Theory_. WCCM-APCOM 2022 (15th World Congress on Computation Mechanics & 8th Asian Pacific Congress on Computation Mechanics), July 31 – August 5, 2022, Yokohama, Japan (Virtual Congress)
+7. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Plastic Hinge Formation in the Framework of the Space-Fractional Beam Theory_. WCCM-APCOM 2022 (15th World Congress on Computation Mechanics & 8th Asian Pacific Congress on Computation Mechanics), July 31 – August 5, 2022, Yokohama, Japan (Virtual Congress)
 
 6. Wojciech Sumelka*, **Paulina Stempin**, Krzysztof Szajek. _Fractional mechanics – current development and perspectives_. ACEX2022 (15th International Conference on Advanced Computational Engineering and Experimenting), July 3-7, 2022, Florence, Italy
 
 5. Wojciech Sumelka*, **Paulina Stempin**. _On selected space-fractional structural models_. IUTAM Symposium on Enhancing Material Performance by Exploiting Instabilities and Damage Evolution, June 5-10, 2022, Warsaw, Poland
 
-4. **Paulina Stempin***, Wojciech Sumelka. _Frakcjalne teorie belek z efektem skali_. Seminarium Sekcji Mechaniki Konstrukcji i Materiałów KILiW PAN, January 10, 2022, Poland
+4. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Frakcjalne teorie belek z efektem skali_. Seminarium Sekcji Mechaniki Konstrukcji i Materiałów KILiW PAN, January 10, 2022, Poland
 
-3. **Paulina Stempin***, Wojciech Sumelka. _Free vibration analysis of space-fractional beams_. XXVII Conference of Lightweight Structures in Civil Engineering, December 2-3, 2021, Łódź, Poland
+3. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Free vibration analysis of space-fractional beams_. XXVII Conference of Lightweight Structures in Civil Engineering, December 2-3, 2021, Łódź, Poland
 
 2. Wojciech Sumelka*, **Paulina Stempin**, Krzysztof Szajek. _Mechanics of materials and structures in the framework of the fractional continuum mechanics_. XII Konferencja Naukowa – Zintegrowane Studia Podstaw Deformacji Plastycznej Metali. PLASTMET 2021, November 23-26, 2021, Łańcut, Poland
 
-1. **Paulina Stempin***, Wojciech Sumelka. _Selected beam theories in the framework of space-fractional mechanics_. WCCM-ECCOMAS Virtual Congress (14th World Congress in Computational Mechanics and ECCOMAS Congress), January 11-15, 2021, Paris, France (Virtual Congress)
+1. <span class="pink-text">Paulina Stempin</span>*, Wojciech Sumelka. _Selected beam theories in the framework of space-fractional mechanics_. WCCM-ECCOMAS Virtual Congress (14th World Congress in Computational Mechanics and ECCOMAS Congress), January 11-15, 2021, Paris, France (Virtual Congress)
 
 ### AWARDS
 4. [Third place in Jan Szmelter Award - the young researchers’ competition](https://ptmkm.pl/?p=475) for the best paper presented at the 26th International Conference on Computer Methods in Mechanics, July 8-11, 2025, Łódź, Poland<br />
