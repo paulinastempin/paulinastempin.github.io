@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
 ### CONFERENCES AND SEMINARS
 Of the 23 conference presentations listed below, 13 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
 
-23. Invited lecture: Wojciech Sumelka*, <span class="highlight">**Paulina Stempin**</span>, Krzysztof Szajek, _Current Achievements of Fractional Mechanics_. 9 th German-Polish Conference on Optimization Methods and Applications (GPCOP 2026), Bialystok University of Technology, Faculty of Computer Science, September 19–25, 2026, Bialystok, Poland
+23. Invited lecture: Wojciech Sumelka*, <span class="highlightpink">**Paulina Stempin**</span>, Krzysztof Szajek, _Current Achievements of Fractional Mechanics_. 9 th German-Polish Conference on Optimization Methods and Applications (GPCOP 2026), Bialystok University of Technology, Faculty of Computer Science, September 19–25, 2026, Bialystok, Poland
 
 22. Faiza Zahid*, **Paulina Stempin**, Wojciech Sumelka. _Study of the temperature effect in fractional thermoelasticity at micro- nano scale_. 44th Solid Mechanics Conference (SolMech 2026), September 07-10, 2026, Krakow, Poland
 
