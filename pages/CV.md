@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", function () {
         totalIF.toFixed(3) +
         "; Polish Ministry points = " +
         totalPoints +
-        "; H-index = 6; citations = 162 (127 without self-citations) according to Scopus database as of September 21, 2026.";
+        "; H-index = 6; citations = 162 (127 without self-citations) according to Scopus database as of September 30, 2026.";
     }
   });
 });
