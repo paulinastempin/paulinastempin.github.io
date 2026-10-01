@@ -217,12 +217,12 @@ Presented paper: _Modelling of nonlocal thick plates in the framework of space-f
 ## TEACHING EXPERIENCE
 Courses: Computational Mechanics, Computer aided design, Numerical methods, Theory of structures, Engineering graphics and CAD, Technical drawing 
 
-#### AY 2025/2026 (280 teaching hours)
+#### AY 2025/2026 (275 teaching hours)
 * **[_Computational Mechanics_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S2Bud1-KB%3EMK&callback=g_9a0c80f0&lang=en), Laboratory** – 30-hour laboratory component of a 3-ECTS course (lectury + laboratory) in Polish, 2 group for second-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznan University of Technology, Poland
 
 * **[_Computer aided design_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=S1Bud1%3EKWP&callback=g_e187be04&lang=en), Laboratory** – 30-hour laboratory component of a 4-ECTS course (lecture + laboratory) in Polish, 1 groups for first-cycle (full-time) studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznan University of Technology, Poland
 
-* _Supervision_ of 3 bachelor’s theses and 1 master’s thesis in Civil Engineering, specialization in Structural Engineering
+* _Supervision_ of 3 bachelor’s theses in Civil Engineering, specialization in Structural Engineering
 
 * **[_Theory of structures_](https://usosweb.put.poznan.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=S1Bud1%3ETK&lang=en), Project** – 30-hour project component of a 3-ECTS course (lectury + project) in Polish, 1 group for first-cycle studies in Civil Engineering. Faculty of Civil and Transport Engineering, Poznan University of Technology, Poland
 
