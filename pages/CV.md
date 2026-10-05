@@ -115,6 +115,9 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+<p id="publication-indicators">
+The summed indicators are: 
+</p>
 </script>
 
 ### CONFERENCES AND SEMINARS
