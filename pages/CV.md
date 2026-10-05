@@ -62,7 +62,7 @@ Participation in the period: 01/12/2019 to 24/11/2021
 
 | Publication | Polish Ministry points | IF |
 | --- | --- | --- |
-| 14. Tomasz Jankowiak, Tomasz Libura, Marcin Nowak, Wojciech Sumelka, **Paulina Stempin** ,Jacek Janiszewski, Zbigniew Kowalewski, Tomasz Nowakowski, Grzegorz Robak, Joanna Małecka, Jolanta Królczyk, Kevin Moj, Kamil Cybul, Michał Wieczorowski. (2026). [_Towards split Hopkinson pressure bar standardization - Interlaboratory comparison of experimental variability across routine practice_](https://doi.org/10.1016/j.jmrt.2026.09.213). Journal of Materials Research and Technology, vol. 45, p. 2688-2707 | 100 |	7.300 |
+| 14. Tomasz Jankowiak, Tomasz Libura, Marcin Nowak, Wojciech Sumelka, **Paulina Stempin**, Jacek Janiszewski, Zbigniew Kowalewski, Tomasz Nowakowski, Grzegorz Robak, Joanna Małecka, Jolanta Królczyk, Kevin Moj, Kamil Cybul, Michał Wieczorowski. (2026). [_Towards split Hopkinson pressure bar standardization - Interlaboratory comparison of experimental variability across routine practice_](https://doi.org/10.1016/j.jmrt.2026.09.213). Journal of Materials Research and Technology, vol. 45, p. 2688-2707 | 100 |	7.300 |
 | 13. **Paulina Stempin**, Wojciech Sumelka. (2026). [_B-spline-enhanced space-fractional finite element method with application to limit state analysis of 3D scale-sensitive truss structures_](https://doi.org/10.1007/s00466-026-02840-4). Computational Mechanics, vol. ., p. .–. | 140 |	4.500 |
 | 12. **Paulina Stempin**, Wojciech Sumelka. (2026). [_B-spline-based space-fractional finite element formulation for planar scale-sensitive Timoshenko frames_](https://doi.org/10.1016/j.compstruc.2026.108342). Computers & Structures, vol. 330, p. 108342-1-108342-16 | 140 |	5.600 |
 | 11. Kevin Moj, Grzegorz Robak, Joanna Malecka, Jolanta Królczyk, Marcin Nowak, **Paulina Stempin**, Kamil Cybul, Michał Wieczorowski, Wojciech Sumelka, Tomasz Jankowiak. (2026). [_Statistical representativeness of the microstructure and surface topography in steel reference samples in a dynamic compression test_](https://doi.org/10.1016/j.jmrt.2026.05.141). Journal of Materials Research and Technology, vol. 42, p. 9270-9286 | 100 |	7.300 |
@@ -77,9 +77,6 @@ Participation in the period: 01/12/2019 to 24/11/2021
 | 2. **Paulina Stempin**, Wojciech Sumelka. (2020). [_Space-fractional Euler-Bernoulli beam model – Theory and identification for silver nanobeam bending_](http://dx.doi.org/10.1016/j.ijmecsci.2020.105902). International Journal of Mechanical Sciences, vol. 186, p. 105902-1-105902-7 | 140	| 5.329 |
 | 1. **Paulina Stempin**, Wojciech Sumelka. (2020). [_Numerical Analysis of Road Acoustic Screen_](http://dx.doi.org/10.24425/ace.2020.131805). Archives of Civil Engineering, vol. 66, no. 2, p. 191-210 | 100	| – |
 {:.table .table-striped}
-<p id="publication-indicators">
-The summed indicators are: H-index = 6; citations = 150 (118 without self-citations) according to Scopus database as of August 19, 2026.
-</p>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const tables = document.querySelectorAll("table");
@@ -114,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function () {
         totalIF.toFixed(3) +
         "; Polish Ministry points = " +
         totalPoints +
-        "; H-index = 6; citations = 162 (127 without self-citations) according to Scopus database as of September 30, 2026.";
+        "; H-index = 6; citations = 163 (128 without self-citations) according to Scopus database as of October 05, 2026.";
     }
   });
 });
