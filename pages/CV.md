@@ -77,6 +77,9 @@ Participation in the period: 01/12/2019 to 24/11/2021
 | 2. **Paulina Stempin**, Wojciech Sumelka. (2020). [_Space-fractional Euler-Bernoulli beam model – Theory and identification for silver nanobeam bending_](http://dx.doi.org/10.1016/j.ijmecsci.2020.105902). International Journal of Mechanical Sciences, vol. 186, p. 105902-1-105902-7 | 140	| 5.329 |
 | 1. **Paulina Stempin**, Wojciech Sumelka. (2020). [_Numerical Analysis of Road Acoustic Screen_](http://dx.doi.org/10.24425/ace.2020.131805). Archives of Civil Engineering, vol. 66, no. 2, p. 191-210 | 100	| – |
 {:.table .table-striped}
+<p id="publication-indicators">
+The summed indicators are: 
+</p>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const tables = document.querySelectorAll("table");
@@ -115,9 +118,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
-<p id="publication-indicators">
-The summed indicators are: 
-</p>
 </script>
 
 ### CONFERENCES AND SEMINARS
