@@ -114,14 +114,16 @@ document.addEventListener("DOMContentLoaded", function () {
         totalIF.toFixed(3) +
         "; Polish Ministry points = " +
         totalPoints +
-        "; H-index = 6; citations = 165 (130 without self-citations) according to Scopus database as of October 09, 2026.";
+        "; H-index = 6; citations = 169 (133 without self-citations) according to Scopus database as of November 09, 2026.";
     }
   });
 });
 </script>
 
 ### CONFERENCES AND SEMINARS
-Of the 23 conference presentations listed below, 13 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
+Of the 24 conference presentations listed below, 13 were delivered by me; the presenter of each talk is indicated with an asterisk (*).
+
+24. (Invited lecture): Wojciech Sumelka*, **Paulina Stempin**, Krzysztof Szajek, _Mechanics of Solids Driven by Fractional Calculus_, Hohai University, November 12, 2026, Hohai, China
 
 23. (Invited lecture): Wojciech Sumelka*, **Paulina Stempin**, Krzysztof Szajek, _Current Achievements of Fractional Mechanics_. 9 th German-Polish Conference on Optimization Methods and Applications (GPCOP 2026), Bialystok University of Technology, Faculty of Computer Science, September 19–25, 2026, Bialystok, Poland
 
